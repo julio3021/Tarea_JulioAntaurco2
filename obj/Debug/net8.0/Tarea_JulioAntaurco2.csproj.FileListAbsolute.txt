@@ -28,3 +28,4 @@ C:\Users\ACER\Desktop\Programacion\Tarea\Tarea_JulioAntaurco2\obj\Debug\net8.0\r
 C:\Users\ACER\Desktop\Programacion\Tarea\Tarea_JulioAntaurco2\obj\Debug\net8.0\Tarea_JulioAntaurco2.pdb
 C:\Users\ACER\Desktop\Programacion\Tarea\Tarea_JulioAntaurco2\obj\Debug\net8.0\Tarea_JulioAntaurco2.genruntimeconfig.cache
 C:\Users\ACER\Desktop\Programacion\Tarea\Tarea_JulioAntaurco2\obj\Debug\net8.0\ref\Tarea_JulioAntaurco2.dll
+C:\Users\ACER\Desktop\Programacion\Tarea\Tarea_JulioAntaurco2\obj\Debug\net8.0\Tarea_JulioAntaurco2.sourcelink.json

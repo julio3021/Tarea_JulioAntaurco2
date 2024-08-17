@@ -12,3 +12,35 @@
 <div style="text-align: center;">
     <img src="~/imagenes/toby2.jpg" alt="Toby" style="max-width: 300px; height: auto; display: block; margin: 0 auto;">
 </div>
+<button onclick="mostrarViaje()" style="
+    display: block; 
+    margin: 20px auto; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    color: #fff; 
+    background-color: #af6300; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, transform 0.3s;
+">Conoce un poco de mi primer viaje en familia</button>
+
+<div id="viajeDiv" style="display: none; text-align: center;">
+    <h2>Mi primer viaje familiar</h2>
+    <article>Hace un año junto a mi familia fui de viaje a la huacachina en ica, la pase increible, pasamos bonitos
+        momentos y sobre todo juntos en familia.
+    </article>
+    <br>
+    <img src="~/imagenes/viaje_toby.jpg" alt="lulu cumpleaños" style="max-width: 300px; height: auto; display: block; margin: 0 auto;">
+</div>
+
+<script>
+    function mostrarViaje() {
+        var viajeDiv = document.getElementById('viajeDiv');
+        if (viajeDiv.style.display === 'none') {
+            viajeDiv.style.display = 'block';
+        } else {
+            viajeDiv.style.display = 'none';
+        }
+    }
+</script>

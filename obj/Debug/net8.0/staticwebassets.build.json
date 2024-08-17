@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VJf91PBff6UsjAYhXSHrMirdFNxpf9FS5D3GqFVefJI=",
+  "Hash": "EDfa7CH5GaabaxjXJ0bGcZ9YEsV+KPeUezSctY4r51c=",
   "Source": "Tarea_JulioAntaurco2",
   "BasePath": "_content/Tarea_JulioAntaurco2",
   "Mode": "Default",
@@ -112,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\lulu.jpeg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\lulu2.jpg",
+      "SourceId": "Tarea_JulioAntaurco2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\",
+      "BasePath": "_content/Tarea_JulioAntaurco2",
+      "RelativePath": "imagenes/lulu2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\lulu2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\Mota.jpg",
       "SourceId": "Tarea_JulioAntaurco2",
       "SourceType": "Discovered",
@@ -150,6 +169,25 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\seinep.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\seinep2.jpg",
+      "SourceId": "Tarea_JulioAntaurco2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\",
+      "BasePath": "_content/Tarea_JulioAntaurco2",
+      "RelativePath": "imagenes/seinep2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\seinep2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\toby.jpg",
       "SourceId": "Tarea_JulioAntaurco2",
       "SourceType": "Discovered",
@@ -167,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\toby.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\toby2.jpg",
+      "SourceId": "Tarea_JulioAntaurco2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\",
+      "BasePath": "_content/Tarea_JulioAntaurco2",
+      "RelativePath": "imagenes/toby2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\toby2.jpg"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\js\\site.js",

@@ -11,3 +11,35 @@
 <div style="text-align: center;">
     <img src="~/imagenes/lulu2.jpg" alt="Lulu" style="max-width: 300px; height: auto; display: block; margin: 0 auto;">
 </div>
+<button onclick="mostrarViaje()" style="
+    display: block; 
+    margin: 20px auto; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    color: #fff; 
+    background-color: #7e0469; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, transform 0.3s;
+">Conoce un poco de mi fiesta de cumpleaños</button>
+
+<div id="viajeDiv" style="display: none; text-align: center;">
+    <h2>Mi primer añito</h2>
+    <article>Hace pocos meses lulu acaba de cumplir su primer añito, la pasamos increible con toda la familia. Ese dia recibio
+        muchos regalo por parte de sus invitados y la pasamos muy bien en familia.
+    </article>
+    <br>
+    <img src="~/imagenes/lulu_cumpleaños.jpg" alt="lulu cumpleaños" style="max-width: 300px; height: auto; display: block; margin: 0 auto;">
+</div>
+
+<script>
+    function mostrarViaje() {
+        var viajeDiv = document.getElementById('viajeDiv');
+        if (viajeDiv.style.display === 'none') {
+            viajeDiv.style.display = 'block';
+        } else {
+            viajeDiv.style.display = 'none';
+        }
+    }
+</script>
