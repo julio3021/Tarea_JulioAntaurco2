@@ -21,12 +21,24 @@
       "PackagePath": "staticwebassets\\imagenes\\lulu.jpeg"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\lulu2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\lulu2.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\seinep.jpg",
       "PackagePath": "staticwebassets\\imagenes\\seinep.jpg"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\seinep2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\seinep2.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\toby.jpg",
       "PackagePath": "staticwebassets\\imagenes\\toby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\imagenes\\toby2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\toby2.jpg"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\Programacion\\Tarea\\Tarea_JulioAntaurco2\\wwwroot\\js\\site.js",
