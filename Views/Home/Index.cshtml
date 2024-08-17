@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Mis Mascotas</h1>
+</div>
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/imagenes/toby.jpg" class="card-img-top" alt="Mascota 1">
+                <div class="card-body text-center">
+                    <a asp-controller="Toby" asp-action="Index" class="btn btn-primary">Toby</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/imagenes/lulu.jpeg" class="card-img-top" alt="Mascota 2">
+                <div class="card-body text-center">
+                    <a asp-controller="Lulu" asp-action="Index" class="btn btn-primary">Lulu</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/imagenes/Mota.jpg" class="card-img-top" alt="Mascota 3">
+                <div class="card-body text-center">
+                    <a asp-controller="Mota" asp-action="Index" class="btn btn-primary">Mota</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/imagenes/seinep.jpg" class="card-img-top" alt="Mascota 5">
+                <div class="card-body text-center">
+                    <a asp-controller="Seinep" asp-action="Index" class="btn btn-primary">Seinep</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
